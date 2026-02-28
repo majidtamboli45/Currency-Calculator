@@ -4,6 +4,8 @@ A simple and responsive Currency Converter built using HTML, CSS, and JavaScript
 
 This project allows users to convert amounts between different currencies using real-time exchange rates. It features a clean UI, smooth input handling, and dynamic result updates — making it ideal for beginners learning API integration and DOM manipulation.
 
+
+
 🚀 Features
 
 Convert between multiple currencies
@@ -16,6 +18,11 @@ Fully responsive design
 
 Instant calculation on button click
 
+
+
+
+
+
 🛠️ Technologies Used
 
 HTML
@@ -26,6 +33,9 @@ Styling and responsive layout
 
 JavaScript
 Logic, DOM manipulation, and API handling
+
+
+
 
 📂 Project Structure
 Currency-Calculator/
@@ -45,6 +55,10 @@ Select currencies
 
 Click Convert to view the result
 
+
+
+
+
 📌 Future Improvements
 
 Add currency flags
@@ -56,6 +70,9 @@ Store recent conversion history
 Implement dark mode
 
 Improve error handling
+
+
+
 
 🎯 Learning Outcomes
 
