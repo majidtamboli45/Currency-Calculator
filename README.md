@@ -1,89 +1,74 @@
 💱 Currency Calculator
+<p align="center"> A simple and responsive currency converter built using HTML, CSS and JavaScript. </p>
+📌 About The Project
 
-A simple and responsive Currency Converter built using HTML, CSS, and JavaScript.
+This web application allows users to convert amounts between different currencies using real-time exchange rates.
+It focuses on clean UI design, smooth user interaction, and dynamic result updates.
 
-This project allows users to convert amounts between different currencies using real-time exchange rates. It features a clean UI, smooth input handling, and dynamic result updates — making it ideal for beginners learning API integration and DOM manipulation.
+Perfect for beginners learning:
 
+API integration
 
+DOM manipulation
 
-🚀 Features
+Event handling
 
-Convert between multiple currencies
+Responsive design
 
-Real-time exchange rate fetching
+✨ Features
 
-Clean and user-friendly interface
+🌍 Multiple currency conversion
 
-Fully responsive design
+🔄 Real-time exchange rate fetching
 
-Instant calculation on button click
+⚡ Instant calculation
 
+📱 Fully responsive design
 
+🎯 Simple and beginner-friendly structure
 
-
-
-
-🛠️ Technologies Used
-
-HTML
-Structure of the application
-
-CSS
-Styling and responsive layout
-
-JavaScript
-Logic, DOM manipulation, and API handling
-
-
-
-
+🛠️ Tech Stack
+Technology	Usage
+HTML5	Page structure
+CSS3	Styling & responsiveness
+JavaScript (ES6)	Logic & API integration
 📂 Project Structure
-Currency-Calculator/
+Currency-Calculator
 │
 ├── index.html
 ├── style.css
 └── script.js
-⚙️ How to Run the Project
+🚀 Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/your-username/Currency-Calculator.git
+2️⃣ Open the project
 
-Download or clone this repository
+Simply open index.html in your browser.
 
-Open index.html in your browser
+No installation required.
 
-Enter the amount
-
-Select currencies
-
-Click Convert to view the result
-
-
-
-
-
-📌 Future Improvements
+🔮 Future Improvements
 
 Add currency flags
 
-Add swap currency button animation
+Add animated swap button
 
-Store recent conversion history
+Store recent conversions
 
-Implement dark mode
+Add dark mode
 
-Improve error handling
+Improve validation handling
 
+🎯 What I Learned
 
+DOM manipulation
 
+Fetch API usage
 
-🎯 Learning Outcomes
+Event handling in JavaScript
 
-Understanding DOM manipulation
-
-Working with APIs in JavaScript
-
-Handling dynamic user input
-
-Creating responsive UI designs
+Building responsive layouts
 
 👨‍💻 Author
 
-Developed as a frontend practice project to strengthen JavaScript fundamentals and API integration skills.
+Developed as a frontend practice project to strengthen core JavaScript and UI development skills.
