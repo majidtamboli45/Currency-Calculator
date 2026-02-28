@@ -1,56 +1,65 @@
-# Currency-Calculator
-A simple and responsive Currency Converter built using HTML, CSS, and JavaScript. This project allows users to convert amounts between different currencies using real-time exchange rates. It features a clean UI, easy input handling, and dynamic result updates, making it ideal for beginners learning API integration and DOM manipulation.
+💱 Currency Calculator
+
+A simple and responsive Currency Converter built using HTML, CSS, and JavaScript.
+
+This project allows users to convert amounts between different currencies using real-time exchange rates. It features a clean UI, smooth input handling, and dynamic result updates — making it perfect for beginners learning API integration and DOM manipulation.
 
 
-💱 Basic Currency Converter
-
-A lightweight web-based currency converter developed using HTML, CSS, and JavaScript. This project demonstrates DOM manipulation, event handling, and API integration for fetching live exchange rates.
 
 🚀 Features
 
-Convert between multiple currencies
+✨ Convert between multiple currencies
+✨ Real-time exchange rate fetching
+✨ Clean and user-friendly interface
+✨ Fully responsive design
+✨ Instant calculation on button click
 
-Real-time exchange rate fetching
 
-User-friendly interface
 
-Responsive design
-
-Instant calculation on button click
 
 🛠️ Technologies Used
-
-HTML – Structure of the application
-
-CSS – Styling and responsive layout
-
-JavaScript – Logic and API handling
-
+Technology	Purpose
+HTML	Structure of the application
+CSS	Styling and responsive layout
+JavaScript	Logic, DOM manipulation & API handling
 📂 Project Structure
-/currency-converter
+Currency-Calculator/
 │── index.html
 │── style.css
 │── script.js
-⚙️ How to Run
 
-Download or clone the repository
 
-Open index.html in your browser
 
-Enter amount and select currencies
 
-Click Convert to see the result
+⚙️ How to Run the Project
+
+1️⃣ Download or clone this repository
+2️⃣ Open index.html in your browser
+3️⃣ Enter the amount
+4️⃣ Select the currencies
+5️⃣ Click Convert to view the result
+
+
+
 
 📌 Future Improvements
 
-Add currency flags
+🔹 Add currency flags for better UI
+🔹 Add swap currency button animation
+🔹 Store recent conversion history
+🔹 Add dark mode option
+🔹 Improve error handling
 
-Add swap button animation
 
-Store recent conversions
 
-Improve UI with dark mode
 
-👨‍💻 Author
 
-Developed as a beginner-friendly JavaScript project to practice frontend development and API integration.
+🎯 Learning Outcomes
+
+Understanding DOM Manipulation
+
+Working with APIs in JavaScript
+
+Handling user inputs dynamically
+
+Creating responsive UI designs
