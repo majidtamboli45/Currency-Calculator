@@ -1,74 +1,114 @@
-💱 Currency Calculator
-<p align="center"> A simple and responsive currency converter built using HTML, CSS and JavaScript. </p>
-📌 About The Project
+# 💱 Currency Calculator
 
-This web application allows users to convert amounts between different currencies using real-time exchange rates.
-It focuses on clean UI design, smooth user interaction, and dynamic result updates.
+<p align="center">
+A simple and responsive currency converter built using <b>HTML, CSS, and JavaScript</b>.
+</p>
 
-Perfect for beginners learning:
+![HTML](https://img.shields.io/badge/HTML-Structure-orange)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow)
+![Level](https://img.shields.io/badge/Level-Beginner-green)
 
-API integration
+---
 
-DOM manipulation
+# 📌 About The Project
 
-Event handling
+The **Currency Calculator** is a simple web application that allows users to convert amounts between different currencies using **real-time exchange rates**.
 
-Responsive design
+The project focuses on:
 
-✨ Features
+- Clean **UI design**
+- Smooth **user interaction**
+- Dynamic **currency conversion updates**
 
-🌍 Multiple currency conversion
+It is perfect for beginners who want to practice **JavaScript and API integration** while building a practical project.
 
-🔄 Real-time exchange rate fetching
+---
 
-⚡ Instant calculation
+# ✨ Features
 
-📱 Fully responsive design
+✔ 🌍 Convert between multiple currencies  
+✔ 🔄 Fetch real-time exchange rates  
+✔ ⚡ Instant conversion calculation  
+✔ 📱 Fully responsive design  
+✔ 🎯 Beginner-friendly code structure  
 
-🎯 Simple and beginner-friendly structure
+---
 
-🛠️ Tech Stack
-Technology	Usage
-HTML5	Page structure
-CSS3	Styling & responsiveness
-JavaScript (ES6)	Logic & API integration
-📂 Project Structure
+# 🛠️ Tech Stack
+
+| Technology | Usage |
+|-----------|------|
+| **HTML5** | Page structure |
+| **CSS3** | Styling and responsiveness |
+| **JavaScript (ES6)** | Logic and API integration |
+
+---
+
+# 📂 Project Structure
+
+```
 Currency-Calculator
 │
 ├── index.html
 ├── style.css
 └── script.js
-🚀 Getting Started
-1️⃣ Clone the repository
+```
+
+---
+
+# 🚀 Getting Started
+
+## 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/your-username/Currency-Calculator.git
-2️⃣ Open the project
+```
 
-Simply open index.html in your browser.
+---
 
-No installation required.
+## 2️⃣ Open the Project
 
-🔮 Future Improvements
+Simply open **index.html** in your browser.
 
-Add currency flags
+No installation or setup required.
 
-Add animated swap button
+---
 
-Store recent conversions
+# 🔮 Future Improvements
 
-Add dark mode
+Some features planned for future updates:
 
-Improve validation handling
+- 🌍 Add **currency flags**
+- 🔁 Add **animated swap button**
+- 🧾 Store **recent conversions**
+- 🌙 Add **dark mode**
+- ✅ Improve **input validation**
 
-🎯 What I Learned
+---
 
-DOM manipulation
+# 🎯 What I Learned
 
-Fetch API usage
+This project helped me practice:
 
-Event handling in JavaScript
+- DOM manipulation
+- Fetch API usage
+- Event handling in JavaScript
+- Building responsive layouts
+- Writing clean frontend code
 
-Building responsive layouts
+---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Developed as a frontend practice project to strengthen core JavaScript and UI development skills.
+**Majid Tamboli**
+
+💻 Frontend & JavaScript Enthusiast  
+🎓 Computer Science Student  
+
+GitHub:  
+https://github.com/majidtamboli45
+
+---
+
+⭐ If you found this project useful, consider **starring the repository**.
